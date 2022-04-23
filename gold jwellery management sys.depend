@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1639400165 source:i:\gold jwellery management sys\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	<cstdio>
+	<cmath>
+	<dos.h>
+
